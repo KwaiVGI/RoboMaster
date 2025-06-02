@@ -28,11 +28,13 @@
 
 🔥 RoboMaster synthesizes realistic robotic manipulation video given an initial frame, a prompt, a user-defined object mask, and a collaborative trajectory describing the motion of both robotic arm and manipulated object in decomposed interaction phases. It supports diverse manipulation skills and can generalize to in-the-wild scenarios.
 
+https://github.com/user-attachments/assets/02fa2491-ac09-4bc0-bf57-955192f37755
+
 ### 📝 TODO List
-- [x] Add inferencing codes with checkpoints.
+- [x] Add inference codes with checkpoints.
 - [x] Add training codes.
 - [x] Add evaluation codes.
-- [ ] Add Gradio demo for generating model inputs on in-the-wild images.
+- [ ] Add Gradio demo to generate model inputs on in-the-wild images.
 - [ ] Release full training data.
 
 ## ⚙️ Quick Start
