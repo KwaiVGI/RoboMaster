@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) &nbsp;
  <a href='http://fuxiao0719.github.io/projects/robomaster'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
- <a href='https://drive.google.com/file/d/1GSfB3UbrUtJvgHkNrzm4TwLjqdR6H0-n/view'><img src='https://img.shields.io/badge/arXiv-2506.XXXX-b31b1b.svg'></a> &nbsp;
+ <a href='https://arxiv.org/pdf/2506.01943'><img src='https://img.shields.io/badge/arXiv-2506.01943-b31b1b.svg'></a> &nbsp;
  <a href='https://huggingface.co/KwaiVGI/RoboMaster'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> &nbsp;
 
 **[Xiao Fu<sup>1 &dagger;</sup>](https://fuxiao0719.github.io/), 
@@ -150,7 +150,7 @@ If you find this work helpful, please consider citing:
 @article{fu2025robomaster,
   title={Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control},
   author={Fu, Xiao and Wang, Xintao and Liu, Xian and Bai, Jianhong and Xu, Runsen and Wan, Pengfei and Zhang, Di and Lin, Dahua},
-  journal={arXiv preprint arXiv:2506.XXXXX},
+  journal={arXiv preprint arXiv:2506.01943},
   year={2025}
 }
 ```
