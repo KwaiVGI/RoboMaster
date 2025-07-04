@@ -7,7 +7,7 @@
  <a href='https://arxiv.org/pdf/2506.01943'><img src='https://img.shields.io/badge/arXiv-2506.01943-b31b1b.svg'></a> &nbsp;
  <a href='https://huggingface.co/KwaiVGI/RoboMaster'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> &nbsp;
 
-**[Xiao Fu<sup>1 &dagger;</sup>](https://fuxiao0719.github.io/), 
+**[Xiao Fu<sup>1 </sup>](https://fuxiao0719.github.io/), 
 [Xintao Wang<sup>2 &#9993;</sup>](https://xinntao.github.io/), 
 [Xian Liu<sup>1</sup>](https://alvinliu0.github.io/), 
 [Jianhong Bai<sup>3</sup>](https://jianhongbai.github.io/), 
@@ -17,10 +17,10 @@
 [Dahua Lin<sup>1&#9993;</sup>](http://dahua.site/)** 
 <br>
 <sup>1</sup>The Chinese University of Hong Kong
-<sup>2</sup>Kuaishou Technology
+<sup>2</sup>Kling Team, Kuaishou Technology
 <sup>3</sup>Zhejiang University
 <br>
-&dagger;: Intern at KwaiVGI, Kuaishou Technology, &#9993;: Corresponding Authors
+&#9993;: Corresponding Authors
 
 </div>
 
